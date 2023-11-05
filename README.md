@@ -1,4 +1,3 @@
-# Analog-Electronics-
 # Analog-electronics-project
 
 component = input("Enter BJT or MOSFET: ")
